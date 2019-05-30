@@ -7,7 +7,7 @@
 $from = 'website@clearvision-properties.com';
 
 // an email address that will receive the email with the output of the form
-$sendTo = 'fredrik@clearvision-properties.com';
+$sendTo = 'ploy@clearvision-properties.com';
  
 // subject of the email
 //$subject = 'New message from contact form';
